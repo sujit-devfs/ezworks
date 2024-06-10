@@ -11,3 +11,9 @@ input {
     padding: 8px;
     margin: 5px;
 }
+
+.message {
+    margin-top: 10px;
+    color: red; 
+    margin-left: 10px;
+  }
